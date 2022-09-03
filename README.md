@@ -1,4 +1,4 @@
-# 💫 About Me:
+# （￣︶￣）↗　 About Me:
 Hello, I'm Anush Karki (a.k.a Toxicann) ヾ(⌐■_■)ノ♪<br><br>A (Developer who loves Games) from Nepal 👈(ﾟヮﾟ👈)
 
 
