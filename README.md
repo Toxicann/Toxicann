@@ -16,3 +16,6 @@ Hello, I'm Anush Karki (a.k.a Toxicann) ヾ(⌐■_■)ノ♪<br><br>A (Develope
 
 <!-- ---
 [![](https://visitcount.itsvg.in/api?id=Toxicann&icon=2&color=0)](https://visitcount.itsvg.in) -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Toxicann&theme=radical&no-frame=false&no-bg=false&margin-w=4)
