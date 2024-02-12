@@ -19,4 +19,4 @@ Hello, I'm Anush Karki (a.k.a Toxicann) ヾ(⌐■_■)ノ♪<br><br>A (Develope
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Toxicann&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-![](https://github-trophies.vercel.app/?username=Toxicann)
+![](https://github-trophies.vercel.app/?username=Toxicann&theme=radical&no-frame=false&no-bg=false&margin-w=4)
